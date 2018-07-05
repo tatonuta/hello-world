@@ -1,2 +1,2 @@
 # hello-world
-Pierwsze 
+Pierwsze próby
